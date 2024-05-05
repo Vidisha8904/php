@@ -1,0 +1,31 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+
+.container{
+
+    max-width: 80%;
+    background-color:#829dee;
+    padding: 50px;
+    margin: auto;
+}
+.container h3, p{
+    text-align: center;
+}
+
+/* input, textarea{
+    width: 80%;
+} */
+
+
+
+/* 
+form{
+    display: flex;
+    
+    justify-content: center;
+    flex-direction: column;
+} */
